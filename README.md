@@ -39,8 +39,9 @@ RunGroop helps runners connect, motivate each other, and discover local running 
 
 ---
 
-## 📸 Screenshots / Demo
+## 📸 Screenshot
 
 ![RunGroop Screenshot](HomePage.png)
 
 
+🌐 [Demo](https://rungroop.com)
