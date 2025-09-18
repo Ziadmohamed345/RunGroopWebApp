@@ -41,15 +41,6 @@ RunGroop helps runners connect, motivate each other, and discover local running 
 
 ## 📸 Screenshots / Demo
 
-![Uploading HomePage.png…]()
+![RunGroop Screenshot](HomePage.png)
 
 
----
-
-## 📂 Getting Started
-
-### Prerequisites
-
-- Node.js / .NET SDK (depending on your backend)  
-- Database setup (SQL Server, MySQL, etc.)  
-- Environment variables (e.g. API keys for Google / Strava, Database connection strings)
